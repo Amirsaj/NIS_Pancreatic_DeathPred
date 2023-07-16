@@ -1,0 +1,9 @@
+Model_Name : Logistic Regression | K : 5 | Score : 0.46739198010568855
+Model_Name : AdaBoostClassifier | K : 10 | Score : 0.7785514454460678
+Model_Name : RidgeClassifierCV | K : 10 | Score : 0.7421821572894001
+Model_Name : Decision Tree | K : 10 | Score : 0.7259558594964253
+Model_Name : Random Forest | K : 10 | Score : 0.7654336338203295
+Model_Name : GradientBoostingClassifier | K : 10 | Score : 0.7838980416537147
+Model_Name : DecisionTreeClassifier | K : 10 | Score : 0.7270749145166304
+Model_Name : KNeighborsClassifier | K : 5 | Score : 0.6057196145477153
+Model_Name : MLPClassifier | K : 10 | Score : 0.5998756605533105

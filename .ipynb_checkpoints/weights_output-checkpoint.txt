@@ -1,0 +1,6 @@
+Weights for Layer: dense_1
+
+Weights 1 Shape: (50,)
+Weights 2 Shape: (50, 50)
+Weights 3 Shape: (2,)
+Weights 4 Shape: (50, 2)

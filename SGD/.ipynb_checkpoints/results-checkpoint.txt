@@ -1,0 +1,19 @@
+Threshold: 0.8387375320860966
+Sensitivity: 0.7950540958268933
+Specificity: 0.8022064617809299
+Precision: 0.6055919095776323
+Accuracy: 0.7970692717584369
+Balanced Accuracy: 0.7986302788039117
+Recall: 0.8022064617809299
+F1 Score: 0.6901694915254237
+AUC: 0.879253096366451
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.91      0.80      0.85      3235
+         1.0       0.61      0.80      0.69      1269
+
+    accuracy                           0.80      4504
+   macro avg       0.76      0.80      0.77      4504
+weighted avg       0.83      0.80      0.80      4504
+
